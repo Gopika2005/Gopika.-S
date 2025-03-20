@@ -1,3 +1,3 @@
-# Gopika.-s
+# wheather
 
-#URL:https://gopika2005.github.io/Gopika.-S/
+#URL:https://gopika2005.github.io/Wheather/
